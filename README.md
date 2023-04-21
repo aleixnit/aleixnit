@@ -1,4 +1,5 @@
 ### Mi nombre es Aleix Aguilar 👋
+<img src="https://raw.githubusercontent.com/bro/bro/blob/output/snake.svg" alt="Snake animation" />
 #### Desarrollador web junior front-end 💻♨️
 
 ![just a colorful divisory](https://i.imgur.com/waxVImv.png)

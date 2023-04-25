@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>
+
 ### Mi nombre es Aleix Aguilar 👋
 <img src="https://raw.githubusercontent.com/bro/bro/blob/output/snake.svg" alt="Snake animation" />
 #### Desarrollador web junior front-end 💻♨️

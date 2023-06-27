@@ -4,7 +4,7 @@
 
 ### Bienvenidos, soy Aleix Aguilar 👋
 
-#### Desarrollador web junior front-end 💻♨️
+#### Desarrollador web junior front-end con gran pasión por la programación y el diseño. 💻♨️
 
 ![just a colorful divisory](https://i.imgur.com/waxVImv.png)
 

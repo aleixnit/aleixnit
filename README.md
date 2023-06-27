@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
-### Mi nombre es Aleix Aguilar 👋
+### Bienvenidos, soy Aleix Aguilar 👋
 
 #### Desarrollador web junior front-end 💻♨️
 
